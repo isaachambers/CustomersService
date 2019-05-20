@@ -1,3 +1,3 @@
 # CustomersService
 
-Demo Customer service microservice demo. This app is a Eureka client and connects to a mysql db. 
+Demo Customer service microservice demo. This app is a Eureka client and connects to a mysql db. Thats all, nothing more.
